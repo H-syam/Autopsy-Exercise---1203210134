@@ -1,3 +1,8 @@
+**Sebelum memulai menggunakan Autopsy, ada beberapa file yang harus dibuat yang dimana file file itu memiliki fungsi masing masing seperti file Document yang didalamnya menyimpan sebuah data atau notepad yang digunakan sebagai riwayat penyelidikan**
+
+![0](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/9566ed3b-b0ff-47b3-b51f-852b2b2dc286)
+
+
 **1). Tampilan awal dari Autopsy , setealah itu pilih "New Case"**
 
 ![1](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/5e55741a-bca0-4b78-9521-e314c5da6655)
