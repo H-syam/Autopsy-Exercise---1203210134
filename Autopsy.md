@@ -42,3 +42,9 @@
 ![15](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/bdabfcc8-6322-45b8-bb1b-0bc4c1c9fc65)
 ![16](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/d4b2492c-c662-4c63-9dd1-30e27d5c6410)
 
+
+**Mencoba melakukan autopsy dengan menggunakan data yang lebih besar**
+
+![1](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/ead83e3b-b384-4ea3-8d97-98cb187f3c43)
+
+
