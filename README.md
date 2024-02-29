@@ -32,4 +32,8 @@
 ![13](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/52007c41-3090-48a8-8758-1d99b66b9987)
 ![14](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/a12b204b-eee7-432a-8000-641d674b4af8)
 
+**7). Setelah melakukan proses Autopsy dengan beberapa fitur dan menggunakan gambar yang telah disediakan, selanjutnya kita akan menghasilkan sebuah laporan autopsy yang berformat HTML**
+
+![15](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/bdabfcc8-6322-45b8-bb1b-0bc4c1c9fc65)
+![16](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/d4b2492c-c662-4c63-9dd1-30e27d5c6410)
 
