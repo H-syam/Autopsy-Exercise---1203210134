@@ -43,7 +43,7 @@
 ![16](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/d4b2492c-c662-4c63-9dd1-30e27d5c6410)
 
 
-**Mencoba melakukan autopsy dengan menggunakan data yang lebih besar**
+**Mencoba melakukan autopsy dengan menggunakan data yang lebih besar dengan data dari Windows desk manager,namun di laptop saya mengalami stuck 78% pada pemuatan data,yang menyebabkan tidak dapat melanjutkan tutorial**
 
 ![1](https://github.com/H-syam/Mencoba-Autopsy/assets/148841928/ead83e3b-b384-4ea3-8d97-98cb187f3c43)
 
